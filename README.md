@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Tércio Gabriel😁
+## Bem-vindo(a) ao perfil de Tércio Gabriel ☺️
 
  <div>
    <a href="https://github.com/tercioo-gabriel">
