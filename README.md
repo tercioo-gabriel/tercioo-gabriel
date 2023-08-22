@@ -6,26 +6,25 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tercioo-gabriel&layout=compact&langs_count=6&theme=dracula"/>
 </div>
     
-```js
+```java
 import Desenvolvedor from "tercioo-gabriel";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Tércio Gabriel";
+  name = "Tércio Gabriel";
   area = "Desenvolvedor Front-End";
   hard-skills = "Html/Css, JavaScript, TypeScript, ReactJs, Git e UI/UX Design";
   soft-skills = "Trabalho em equipe, Adaptabilidade e Comunicação";
 }
 ```
 
-# 🖥️
 <div style="display: inline_block"><br>
- 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align='center' alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align='center' alt="Tailwind" height="20" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png">
-  <img align='center' alt="React" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align='center' alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align='center' alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align='center' alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align='center' alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 </div>
  
  <br>
@@ -37,7 +36,5 @@ class SobreMim extends Desenvolvedor {
   <a href="https://instagram.com/tercio.gabriel"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/terciogabrieldejesus/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:terciogabrieldejesus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-  
- 
   <img align="center" width="50" src="https://i2.wp.com/data.whicdn.com/images/155892926/original.gif">
 </div>
