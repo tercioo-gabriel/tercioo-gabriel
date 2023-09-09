@@ -10,10 +10,10 @@
 import Desenvolvedor from "tercioo-gabriel";
 
 class SobreMim extends Desenvolvedor {
-  name = "Tércio Gabriel";
-  area = "Desenvolvedor Front-End";
-  hard-skills = "Html/Css, JavaScript, TypeScript, ReactJs, Styled Components, Git e UI/UX Design";
-  soft-skills = "Trabalho em equipe, Adaptabilidade, Comunicação, Motivação e Organização";
+  name = "Tércio Gabriel",
+  area = "Desenvolvedor Front-End",
+  hard-skills = "Html/Css, JavaScript, TypeScript, ReactJs, Styled Components, Git e UI Design",
+  soft-skills = "Trabalho em equipe, Adaptabilidade, Comunicação, Motivação e Organização",
 }
 ```
 
