@@ -10,10 +10,17 @@
 import Desenvolvedor from "tercioo-gabriel";
 
 class SobreMim extends Desenvolvedor {
-  name = "Tércio Gabriel de Jesus",
-  area = "Desenvolvedor Front-End",
-  hard-skills = "Html/Css, JavaScript, TypeScript, ReactJs, Styled Components, SQL, Git e UI Design",
-  soft-skills = "Trabalho em equipe, Adaptabilidade, Comunicação e Organização",
+  constructor() {
+    super();
+    this.name = "Tércio Gabriel de Jesus";
+    this.area = "Desenvolvedor Front-End";
+    this.hardSkills = {
+      "Front-End": ['HTML5/CSS3', 'JavaScript', 'TypeScript', 'ReactJs', 'TailwindCSS', 'styled-components'],
+      "Back-End": ['NodeJs', 'APIs REST'],
+      "Banco de Dados": ['MySql']
+    };
+    this.softSkills = "Trabalho em equipe, Adaptabilidade, Comunicação e Organização";
+  }
 }
 ```
 
