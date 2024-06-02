@@ -16,7 +16,7 @@ class SobreMim extends Desenvolvedor {
     this.area = "Desenvolvedor Front-End";
     this.hardSkills = {
       "Front-End": ['HTML5/CSS3', 'JavaScript', 'TypeScript', 'ReactJs', 'TailwindCSS', 'styled-components'],
-      "Back-End": ['NodeJs', 'Pyhton', 'APIs REST'],
+      "Back-End": ['NodeJs', 'Python', 'APIs REST'],
       "Banco de Dados": ['MySql']
     };
     this.softSkills = "Trabalho em equipe, Adaptabilidade, Comunicação e Organização";
